@@ -7,8 +7,23 @@ h1 {
     line-height: 50px;
 }
 
+h2 {
+    color: brown;
+}
 
+/* STYLING IMAGES && LIST */
+ol img {
+    height: 550px;
+    width: 550px;
+}
 
+ol {
+    list-style: none;
+}
+
+ol p {
+    color: tomato;
+}
 
 
 
